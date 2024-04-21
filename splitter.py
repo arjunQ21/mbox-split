@@ -35,6 +35,4 @@ with open(mbox_file_path, "r") as file:
 
         current_email_content += line
 
-append()
-
 
