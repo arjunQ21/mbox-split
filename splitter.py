@@ -1,7 +1,7 @@
 from os import path
 file_size_limit = 220 * 1024 * 1024 # 220 MB max .mbox file size
-mbox_file_path = 'All mail Including Spam and Trash.mbox'  # Change this to your .mbox file path
-destination ="splitted"
+mbox_file_path = '/Users/arjunq21/Downloads/All mail Including Spam and Trash-002.mbox'  # Change this to your .mbox file path
+destination ="splitted-rajendra"
 
 part_no = 0
 count = 0
